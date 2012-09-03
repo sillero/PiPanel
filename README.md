@@ -1,3 +1,3 @@
 # About
 
-A web interface for my raspberrypi
+A web interface for my RaspberryPi
